@@ -1,7 +1,7 @@
 ### Face Recognition
 
 The face recognition ML project with Flask and Python is a web application that uses machine learning algorithms to detect and recognize faces.
-In this project, we will be using various machine learning libraries such as OpenCV, face_recognition, and NumPy to train and test your models. We will also be using Flask to create a user-friendly interface that allows users to upload images through webcam, and the application will use the trained models to detect and recognize faces in the uploaded images.
+In this project, we will be using various machine learning libraries such as OpenCV, OS, and NumPy to train and test your models. We will also be using Flask to create a user-friendly interface that allows users to upload images through webcam, and the application will use the trained models to detect and recognize faces in the uploaded images.
 
 ### Software and tools requirements 
 
