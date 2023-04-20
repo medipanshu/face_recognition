@@ -1,5 +1,4 @@
 import numpy as np
-import os
 import cv2
 
 def save_face_data(filename):
